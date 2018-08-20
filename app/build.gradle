@@ -41,6 +41,10 @@ dependencies {
 
     // Firebase
     implementation 'com.google.firebase:firebase-firestore:17.1.0'
+
+    // Architecture components
+    implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:2.0.0-rc01"
+
 }
 
 apply plugin: 'com.google.gms.google-services'
