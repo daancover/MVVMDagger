@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "390219861266",
+    "firebase_url": "https://mvvmdagger.firebaseio.com",
+    "project_id": "mvvmdagger",
+    "storage_bucket": "mvvmdagger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390219861266:android:af00e4d7bc5a27ee",
+        "android_client_info": {
+          "package_name": "com.coverlabs.mvvmdagger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390219861266-cj40l7qdfot5qipvucne8r9vo68ak3m4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.coverlabs.mvvmdagger",
+            "certificate_hash": "6e57e91638531eacb4be06ac9ec80675e7b027c7"
+          }
+        },
+        {
+          "client_id": "390219861266-h7teb81jov9l29bgro7eq3no77j1o792.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfvGnUkX0kf5QWrp4AL745H37kBbm-kNQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390219861266-h7teb81jov9l29bgro7eq3no77j1o792.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
